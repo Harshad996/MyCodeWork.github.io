@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609238497 source:c:\users\harshad gupta\desktop\code work\hexadecimal to decimal\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

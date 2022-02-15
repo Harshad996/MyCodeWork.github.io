@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620032787 source:c:\users\harshad gupta\desktop\code work\sc3\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
